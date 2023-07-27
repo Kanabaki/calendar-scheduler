@@ -11,6 +11,8 @@ Provide a short description explaining the what, why, and how of your project. U
 
 Provide instructions and examples for use. Include screenshots as needed.
 
+Visit Page: https://kanabaki.github.io/calendar-scheduler/
+
 
 ## License
 MIT License
