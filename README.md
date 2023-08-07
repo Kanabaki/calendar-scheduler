@@ -1,18 +1,21 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler
 ## Description
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This web app was created as a scheduler for a 9-5 job. If you're anything like me, you can forget what day you're living in quite often. 
+To combat this, you can use this web application to set reminders, set tasks, and schedule events at certain hours. 
+Check the Usage portion of the README to see more on how the site functions. It's pretty handy for staying on track and improve time efficiency if you know your targets.
+ Making this app I learned about local storage and understanding how to target element identifiers to run code. 
+ I also learned how to call a third party API (DayJs) to add site functionality in terms of dates and time. 
 
 ## Usage
-![Work day graph](./Assets/Mod5_2.PNG)
-
-Provide instructions and examples for use. Include screenshots as needed.
+![Work day graph](./Assets/Mod5_2.png)
 
 Visit Page: https://kanabaki.github.io/calendar-scheduler/
 
+When you load the page, you will be able to see today's date diplayed right above the time graph. The time table is used to schedule tasks for a 9-5 job. 
+On the left you can see what hour you can set a task for. The hours will be marked with colors. If an hour is in the past, the block will diplay grey. 
+If the time block coincides with the current hour, it will display in red. If the time block is in the future it is displayed in green. 
+In the time blocks you can write reminders/tasks, and save them to local storage using the blue buttons on the right end of the time blocks.
+If you refresh the page, you can see that your saved items will remain in the blocks.
 
 ## License
 MIT License
