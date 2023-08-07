@@ -7,7 +7,7 @@ Provide a short description explaining the what, why, and how of your project. U
 - What did you learn?
 
 ## Usage
-![Work day graph](./Assets/Mod5.PNG)
+![Work day graph](./Assets/Mod5_2.PNG)
 
 Provide instructions and examples for use. Include screenshots as needed.
 
